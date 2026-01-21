@@ -1,3 +1,7 @@
+/* next.config.ts 
+This is the next.js configuration file.
+*/
+
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {

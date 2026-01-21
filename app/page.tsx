@@ -1,3 +1,7 @@
+/* app/page.tsx 
+This is the "root page" file to display the home page.
+*/
+
 import Image from "next/image";
 
 export default function Home() {

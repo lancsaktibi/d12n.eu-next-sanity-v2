@@ -1,3 +1,7 @@
+/* eslint.config.mjs 
+This is the configuration file for ESLint.
+*/
+
 import { defineConfig, globalIgnores } from "eslint/config";
 import nextVitals from "eslint-config-next/core-web-vitals";
 import nextTs from "eslint-config-next/typescript";
